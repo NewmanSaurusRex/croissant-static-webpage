@@ -42,9 +42,9 @@ footer {
 }
 
 .croissant-img {
-    max-width: 90%;
+  max-width: 90%;
   display: block;
-  object-fit: fill;
+  margin: 0 auto;
 }
 
 a:visited {
