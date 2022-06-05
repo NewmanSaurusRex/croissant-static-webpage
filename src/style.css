@@ -20,6 +20,11 @@ h1 {
   margin: 10px auto;
 }
 
+h3 {
+  font-weight: 400;
+  font-style: italic;
+}
+
 p {
   color: #0e2431;
   line-height: 1.5;
@@ -47,12 +52,16 @@ footer {
   margin: 0 auto;
 }
 
+.span .find-me-gf {
+  font-weight: 500;
+}
+
 a:visited {
   color: #0e2431;
 }
 
 a:hover {
-  color: #f9b248;
+  color: #fc3a52;
 }
 
 .row {
